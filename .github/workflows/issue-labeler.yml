@@ -1,6 +1,6 @@
 name: Bulk Issue Labeler
 
-on: issues
+on: [issues, issue_comment]
 
 jobs:
   labelIssue:
