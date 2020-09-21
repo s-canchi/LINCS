@@ -9,4 +9,7 @@ jobs:
     steps:
       - uses: adamzolyak/issue-labeler-action@master
         env:
-          GITHUB_TOKEN: ${{ secrets.ALLTHEACTIONS }}
+
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+       
