@@ -2,7 +2,7 @@
 name: NewDeliverable
 about: Submitting a new deliverable to the project management system
 title: X.X.X Deliverable Name
-labels: ''git
+labels: git
 assignees: ''
 
 ---
