@@ -10,6 +10,6 @@ jobs:
       - uses: adamzolyak/issue-labeler-action@master
         env:
 
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.ALLTHEACTIONS }}
 
        
